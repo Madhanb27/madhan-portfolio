@@ -17,8 +17,8 @@ const config: Config = {
         "border-subtle": "#1E1E1E",
       },
       fontFamily: {
-        heading: ["Urbanist", "sans-serif"],
-        body: ["Open Sans", "sans-serif"],
+        heading: ["var(--font-urbanist)", "sans-serif"],
+        body: ["var(--font-open-sans)", "sans-serif"],
       },
       fontSize: {
         "display-xl": ["clamp(3.5rem, 10vw, 9rem)", { lineHeight: "0.95", letterSpacing: "-0.03em" }],
