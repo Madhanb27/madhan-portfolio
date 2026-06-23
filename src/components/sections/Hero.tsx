@@ -127,7 +127,7 @@ export default function Hero() {
             className="text-display-xl text-text-primary font-heading font-bold mb-5 md:mb-6"
             style={{ lineHeight: "0.95" }}
           >
-            <span className="headline-line block overflow-hidden opacity-0">Hey,</span>
+            <span className="headline-line block overflow-hidden opacity-0">Hi,</span>
             <span className="headline-line block overflow-hidden opacity-0">
               I&apos;m <span className="color-accent">Madhan.</span>
             </span>
