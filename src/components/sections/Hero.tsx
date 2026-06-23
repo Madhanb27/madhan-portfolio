@@ -155,7 +155,7 @@ export default function Hero() {
               <span className="text-xs">→</span>
             </a>
             <a
-              href="/resume.pdf"
+              href="/Resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-7 py-3.5 border border-border-subtle text-text-secondary font-heading font-medium text-sm tracking-wide rounded-sm transition-all duration-500 hover:border-accent hover:text-text-primary cursor-pointer"
