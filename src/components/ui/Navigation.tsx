@@ -6,7 +6,7 @@ import { gsap } from "gsap";
 const navLinks = [
   { label: "Work", href: "#work", mobileHidden: true },
   { label: "About", href: "#about", mobileHidden: true },
-  { label: "Resume", href: "/resume.pdf", external: true, mobileHidden: false },
+  { label: "Resume", href: "/Resume.pdf", external: true, mobileHidden: false },
 ];
 
 export default function Navigation() {

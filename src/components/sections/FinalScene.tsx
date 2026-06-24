@@ -5,7 +5,7 @@ import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const links = [
-  { label: "Download Resume", href: "/resume.pdf", external: true, isPrimary: true },
+  { label: "Download Resume", href: "/Resume.pdf", external: true, isPrimary: true },
   { label: "LinkedIn", href: "https://www.linkedin.com/in/connect-madhanb", external: true, isPrimary: false },
   { label: "Behance", href: "https://www.behance.net/madhanb4", external: true, isPrimary: false },
   { label: "GitHub", href: "https://github.com/Madhanb27", external: true, isPrimary: false },
