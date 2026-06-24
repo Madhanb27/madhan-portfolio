@@ -70,7 +70,7 @@ export default function FinalScene() {
         {/* Main headline */}
         <h2
           className="text-display-lg text-text-primary font-heading font-bold mb-16"
-          style={{ lineHeight: "0.95", maxWidth: "16ch" }}
+          style={{ lineHeight: "1.05", maxWidth: "16ch" }}
         >
           <span className="final-line block overflow-hidden opacity-0">
             Let&apos;s create
