@@ -9,7 +9,7 @@ const links = [
   { label: "LinkedIn", href: "https://www.linkedin.com/in/connect-madhanb", external: true, isPrimary: false },
   { label: "Behance", href: "https://www.behance.net/madhanb4", external: true, isPrimary: false },
   { label: "GitHub", href: "https://github.com/Madhanb27", external: true, isPrimary: false },
-  { label: "Get In Touch", href: "mailto:madhanwrk@gmail.com", external: false, isPrimary: false },
+  { label: "Get In Touch", href: "mailto:madhanwrk@gmail.com", external: true, isPrimary: false },
 ];
 
 export default function FinalScene() {
@@ -63,7 +63,7 @@ export default function FinalScene() {
       <div className="max-w-site mx-auto w-full flex-1 flex flex-col justify-center">
         {/* Section label */}
         <div className="flex items-center gap-6 mb-20">
-          <span className="label-text text-text-secondary">06 — Final Scene</span>
+          <span className="label-text text-text-secondary">06 — Let&apos;s Connect</span>
           <div className="flex-1 h-px bg-border-subtle" />
         </div>
 
