@@ -195,9 +195,9 @@ function ProjectChapter({
                 src={project.image}
                 alt={`${project.name} — ${project.tagline}`}
                 fill
-                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 45vw"
+                sizes="(max-width: 640px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 50vw, 45vw"
                 className="object-cover object-top transition-transform duration-700 ease-out group-hover/thumb:scale-[1.03]"
-                quality={90}
+                quality={100}
               />
               {/* Subtle dark overlay to blend image into the dark canvas */}
               <div
