@@ -103,8 +103,8 @@ export default function FinalScene() {
       </div>
 
       {/* Footer */}
-      <div className="footer-bar max-w-site mx-auto w-full pt-20">
-        <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 pt-8 border-t border-border-subtle">
+      <div className="footer-bar max-w-site mx-auto w-full pt-10">
+        <div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-4 pt-5 border-t border-border-subtle">
           <p
             className="footer-text font-heading font-semibold text-text-primary opacity-0"
             style={{ fontSize: "clamp(1rem, 1.5vw, 1.1rem)", letterSpacing: "0.08em" }}
