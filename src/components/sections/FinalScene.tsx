@@ -54,6 +54,7 @@ export default function FinalScene() {
   return (
     <section
       ref={sectionRef}
+      id="contact"
       className="relative min-h-screen flex flex-col justify-center pt-section pb-16 px-8 md:px-12 lg:px-16"
       style={{
         background: "radial-gradient(ellipse at 50% 80%, rgba(196, 154, 108, 0.05) 0%, var(--canvas) 60%)",
