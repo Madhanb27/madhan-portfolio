@@ -96,7 +96,7 @@ export default function FinalScene() {
               }`}
             >
               {link.label}
-              {link.external && <span style={{ fontSize: "0.7rem", opacity: 0.7 }}>↗</span>}
+              {link.external && <span style={{ fontSize: "0.7rem", opacity: 0.7 }}>{"↗︎"}</span>}
             </a>
           ))}
         </div>
