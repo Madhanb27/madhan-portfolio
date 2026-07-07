@@ -8,6 +8,20 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 const projects = [
   {
     number: "01",
+    name: "Nova AI",
+    tagline: "Cinematic AI Workspace Landing Page",
+    description:
+      "A premium AI workspace landing page that unifies conversations, documents, research, automation, and collaboration into one intelligent experience. Designed and developed from concept to deployment with refined typography, cinematic interactions, responsive layouts, and immersive scroll-driven storytelling.",
+    role: "UI/UX Designer & Frontend Developer",
+    tools: ["Figma", "Next.js", "React", "TypeScript", "Tailwind CSS", "GSAP"],
+    link: "https://nova-ai-showcase.vercel.app/",
+    linkLabel: "Visit Website",
+    image: "/projects/nova.png",
+    accent: "#C49A6C",
+    bgPattern: "radial-gradient(ellipse at 75% 25%, rgba(196, 154, 108, 0.07) 0%, transparent 60%)",
+  },
+  {
+    number: "02",
     name: "Bloom",
     tagline: "Luxury Plant & Home Décor Website",
     description:
@@ -21,7 +35,7 @@ const projects = [
     bgPattern: "radial-gradient(ellipse at 70% 40%, rgba(196, 154, 108, 0.06) 0%, transparent 60%)",
   },
   {
-    number: "02",
+    number: "03",
     name: "Local Play",
     tagline: "Sports Matchmaking Mobile App",
     description:
@@ -35,7 +49,7 @@ const projects = [
     bgPattern: "radial-gradient(ellipse at 30% 60%, rgba(168, 159, 145, 0.05) 0%, transparent 60%)",
   },
   {
-    number: "03",
+    number: "04",
     name: "Zudio App Concept",
     tagline: "Fashion E-Commerce Mobile Experience",
     description:
@@ -49,7 +63,7 @@ const projects = [
     bgPattern: "radial-gradient(ellipse at 60% 30%, rgba(196, 154, 108, 0.05) 0%, transparent 55%)",
   },
   {
-    number: "04",
+    number: "05",
     name: "Apple Music Heuristic Evaluation",
     tagline: "UX Audit Based On Nielsen's Heuristics",
     description:
